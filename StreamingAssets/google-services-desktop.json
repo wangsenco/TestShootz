@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1095819952900",
+    "firebase_url": "https://shootz-1fe9f.firebaseio.com",
+    "project_id": "shootz-1fe9f",
+    "storage_bucket": "shootz-1fe9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095819952900:android:d06a8b29880fb27defc651",
+        "android_client_info": {
+          "package_name": "com.nopowerup.shootzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095819952900-u32c53r553ghsrvqqsfk96nfpjfq8jov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh5zmvT27aA1kmKOUVghBvenfTP3sB6wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095819952900-u32c53r553ghsrvqqsfk96nfpjfq8jov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1095819952900-eav08vv0vc013bfm8c4s43dda41idfhn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nopowerup.shootz",
+                "app_store_id": "1424891431"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
